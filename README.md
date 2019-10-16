@@ -8,5 +8,5 @@
 ## Notes:
 ### Please look at the presentation under **presentation** folder for an overview of the experiment
 * original video files have gone missing but tracker data in the form of .csv is included under **physlets_tracker_results**
-* Two notebooks contain the code used to determine values in the different reference frames
+* Two notebooks (in .nb and .pfg) contain the code used to determine values in the different reference frames
 
