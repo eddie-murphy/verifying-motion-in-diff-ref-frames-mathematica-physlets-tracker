@@ -6,7 +6,7 @@
 * Presented on the findings of the experiment in front of a panel of professors and students
 
 ## Notes:
-### Please look at the presentation under **presentation** folder for an overview of the experiment
+### Please look at the presentation under *presentation* folder for an overview of the experiment
 * original video files have gone missing but tracker data in the form of .csv is included under **physlets_tracker_results**
 * Two notebooks (in .nb and .pfg) contain the code used to determine values in the different reference frames
 * .gifs are included in the .pptx version of the presentation
